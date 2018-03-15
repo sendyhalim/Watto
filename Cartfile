@@ -1,0 +1,8 @@
+github "typelift/Swiftz" "master"
+github "ReactiveX/RxSwift" ~> 4.1
+github "Moya/Moya" ~> 11.0
+github "Thoughtbot/Argo" "master"
+github "Thoughtbot/Curry" "master"
+github "hyperoslo/Hue" ~> 3.0.1
+github "robb/Cartography" ~> 3.0.1
+github "icanzilb/EasyAnimation" ~> 2.0
