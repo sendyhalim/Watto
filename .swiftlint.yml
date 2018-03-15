@@ -1,0 +1,17 @@
+line_length:
+  warning: 120
+  error: 150
+disabled_rules:
+  - identifier_name
+  - force_cast
+  - force_try
+  - function_body_length
+  - syntactic_sugar
+  - shorthand_operator
+included:
+  - Watto
+  - WattoTests
+excluded: # Paths to ignore during linting. overridden by `included`.
+  - Carthage
+  - Pods
+  - Watto/R.generated.swift
